@@ -1,0 +1,47 @@
+---
+layout: post
+published: true
+title: M-Bus or Wireless M-Bus?
+author: enectiva
+kw: 'M-Bus, monitoring, smart metering, Wireless,IoT'
+date: 2017-08-14
+en: blog
+slug: en
+schema: blog
+---
+
+Since smart systems become more common both at home and at work, it's perfect time to talk about merits of wired and wireless connectivity. Certain companies clearly prefer one over the other. 
+We thanks to our experience in smart energy systems have few things to say about it.  
+  
+
+##M-Bus or Wireless M-Bus 
+Most energy monitoring smart systems are using proven M-Bus standard, slaves and masters connected by wire. It's stable, interference free and the communication is fast enough. Bandwidth is narrow but still allows to sent more data than wireless options, nessesary for devices that track more than one variable. 
+
+M-Bus connection is quite easy to implement, polarity is not an issue and any topology besides closed loop can be used. Single length of cable can carry the signal from up to 250 meters. Very practical for connecting a lot of meters situated in one area, or even stretching a single Bus through the whole property with some clever cabling.  
+The added bonus, M-Bus doesn't only get data from point A to point B, it also carries power - so no batteries! 
+  
+Wiring however is not always most practical solution. While technically the cable can connect slave and a master more than 1000 meters apart, it's not always wise to do so. Cables that stretch through shafts, along high celeings, and twist and turn endlessly will result in you spending more on installation than what you saved with less hardware. Sometimes,sensors and meters are simply in not very comfortable places for electrical work - making cabling work dangerous or even impossible. 
+  
+Besides once completed, wired system is much less flexible than Wireless M-Bus network. Adding new devices for monitoring or new sensors to the smart system may result in some unexpected extra cable pulling.   
+  
+Wireless of course is not without it's trouble. Despite the fact every piece of hardware has effective radius as a guideline, there is really no way of knowing if the system will work or not until on the property. Sometimes insulation(especially ones with aluminum or celotex in it) creates reception problem, sometimes other devices interfere with the signal.  
+Besides using 169 MHz means you likely have to position receiver somewhere on high ground, making installation team jump through a lot of hoops, while 868 MHz doesn't cover as much distance.  
+  
+Planning this kind of system is always a challenge because there is no way to know all the details until you already started working on your energy monitoring system.  
+Wireless also hardware still needs power - and that means batteries. While most transmitters live around 10 -15 years (depending on the transmitting period), battery life can change because of the output type and amount of data.  
+Transmitting slow pulse of water meter is one thing, but hundreds of pulses coming from your typical electricity meter can wear transmitter battery down relatively quickly.  
+  
+  
+Wireless system is still way to go when hard-to-reach meters are concerned - those water meters in flooded pits, main billing meters in the cramped spaces underground or a score of heating meters on the roof.
+  
+In buildings with a lot of different tenants wireless M-Bus can be used in place of wires to implement with a soft touch, without causing any extra inconvenience. While sticking a whole lot of repeaters across the property is definitely on expensive side, when compared to wiring - it saves a lot of time and headache for all parties involved. 
+  
+Good news is, there is thankfully no need to choose one over the other for entire M2M smart system. For large properties, hybrid solutions remain the most practical way to implement energy management.  
+By keeping in mind key differences, even very complicated projects turn into smart and elegant solutions.  
+  
+Overall, M-Bus and Wireless M-Bus are not really a case off "one is better than the other" both options are completely viable and bring powerful benefits for the table. It really depends on practical implications, which one does the job better and what option is more cost efficient. 
+Smart energy system's job is to save money after all. So look before you leap. 
+
+
+Have a suggestion or a question?
+Ask Enerfis team at +420 222 766 950 or info@enerfis.cz
